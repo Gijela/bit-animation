@@ -1,19 +1,8 @@
-# bit-animation
+# 领取动画
 
-## Project setup
-```
-npm install
-```
+## 需求
+1. 在领取豆子的时候需要做一个动画，豆子移动到总豆子数的位置。
+2. 支持单个领取，全部领取(如果后续还有豆子，需要重新刷新豆子)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
